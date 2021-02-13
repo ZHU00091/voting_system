@@ -63,3 +63,10 @@ To run generateAuditFileTest, you will need to add a CSV file after:
 ./generateAuditFileTest ../testing/OPL.CSV
 
 ```
+
+---
+**NOTE**
+
+To read doxygen file in html , please check Index.html file in documentation/html
+
+---
