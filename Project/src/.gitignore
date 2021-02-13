@@ -1,0 +1,7 @@
+
+# Extensions to not include in repo
+*.o
+*.exe
+*.out
+VotingSystem
+*.txt
